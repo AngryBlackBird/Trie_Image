@@ -1,0 +1,39 @@
+
+.head{
+    text-align: center;
+}
+
+.titre{
+    margin: 5%;
+}
+
+.paragraphe{
+    margin: 2%;
+}
+
+.bouton{
+    margin-top: 5%;
+   
+}
+
+.espace{
+    display: none;
+}
+.terre{
+    display: none;
+}
+.mer{
+    display: none;
+}
+
+.Image{
+    padding: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    
+} 
+img{
+    height: 10em;
+    margin: 5px;
+}
